@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Sheger Barber</string>
+    <string name="site_url">https://sityana-teffera.github.io/sheger-barbershop/</string>
 </resources>
